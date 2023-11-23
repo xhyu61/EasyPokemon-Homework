@@ -8,7 +8,7 @@ The project is created on 2021.12.05, used to finish the homework of my object-o
 
 (In fact, I didn't use so much object-oriented thing in this project)
 
-### What is Pokemon?
+### What is Pokémon?
 https://en.wikipedia.org/wiki/Pokémon
 
 You will be a trainer, and you'll have some pokemons to fight with other trainers. Each pokemon have levels, skills, ability values, attributes.
